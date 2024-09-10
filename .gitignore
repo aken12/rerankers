@@ -138,3 +138,7 @@ local/
 try*.ipynb
 
 data/*/
+
+sh_dir/rerank.sh
+
+rerank.sh*
